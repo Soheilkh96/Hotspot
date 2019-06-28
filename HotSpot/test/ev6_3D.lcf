@@ -14,11 +14,11 @@
 # Layer 0: Silicon
 0
 Y
-N
+Y
 1.75e6
 0.01
 0.00015
-DRAM.flp
+GPU.flp
 
 # Layer 1: thermal interface material (TIM)
 1
@@ -68,11 +68,11 @@ ev6_3D_TIM_TSV.flp
 # Layer 6: Silicon
 6
 Y
-Y
+N
 1.75e6
 0.01
 0.00015
-GPU.flp
+DRAM.flp
 
 # Layer 7: thermal interface material (TIM)
 7
